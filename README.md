@@ -87,7 +87,7 @@ We welcome contributions from the community! If you've created a useful automati
 ## 💬 Get in Touch
 
 Have questions, feedback, or need assistance?
-* Make.com Certified [Shubham Kundale on Credly](credly.com/users/shubham-kundale). 👤
+* Make.com Certified [Shubham Kundale on Credly](https://www.credly.com/users/shubham-kundale). 👤
 * Message [Shubham Kundale on LinkedIn](https://www.linkedin.com/in/shubhamkundale). 👤
 * Open an issue in this repository. 💡
 
